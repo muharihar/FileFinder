@@ -1,0 +1,5 @@
+ airplanes
+ helicopters
+ airships (including blimps)
+ gliders
+ hot air balloons

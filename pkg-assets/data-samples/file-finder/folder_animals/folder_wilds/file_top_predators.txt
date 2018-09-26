@@ -1,0 +1,5 @@
+lions
+tigers
+crocodiles
+hyenas
+bears

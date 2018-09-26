@@ -1,0 +1,100 @@
+Island	City	Population
+Bali	Denpasar	834,881
+Java	Bandung	2,575,478
+Java	Banjar	175,910
+Java	Batu	190,184
+Java	Bekasi	2,510,951
+Java	Blitar	132,018
+Java	Bogor	1,022,002
+Java	Cianjur	165,420
+Java	Cilegon	416,464
+Java	Cimahi	566,200
+Java	Cirebon	298,224
+Java	Depok	1,751,696
+Java	Jakarta	9,588,198
+Java	Kediri	268,507
+Java	Madiun	170,964
+Java	Magelang	118,227
+Java	Malang	820,243
+Java	Mojokerto	120,196
+Java	Pasuruan	186,262
+Java	Pekalongan	281,434
+Java	Probolinggo	217,062
+Java	Purwokerto	292,782
+Java	Salatiga	170,332
+Java	Semarang	1,555,984
+Java	Serang	577,785
+Java	South Tangerang	1,290,322
+Java	Sukabumi	298,681
+Java	Surabaya	2,765,487
+Java	Surakarta	499,337
+Java	Tasikmalaya	635,464
+Java	Tangerang	1,798,601
+Java	Tegal	239,599
+Java	Yogyakarta	388,627
+Kalimantan	Balikpapan	557,579
+Kalimantan	Banjarbaru	199,627
+Kalimantan	Banjarmasin	625,481
+Kalimantan	Bontang	143,683
+Kalimantan	Palangkaraya	220,962
+Kalimantan	Pontianak	501,843
+Kalimantan	Samarinda	727,500
+Kalimantan	Singkawang	186,462
+Tarakan	Tarakan	193,370
+Kalimantan	Tenggarong	72,458
+Ambon	Ambon	331,254
+Kai	Tual	58,082
+Ternate	Ternate	185,705
+Tidore	Tidore	90,055
+Sumbawa	Bima	142,579
+Lombok	Mataram	402,843
+Timor	Kupang	336,239
+Timor	Atambua	74,903
+New Guinea	Jayapura	200,524
+New Guinea	Merauke	71,838
+New Guinea	Kota Sorong	184,239
+New Guinea	Manokwari	136,302
+Buton	Bau-Bau	118,998
+Sulawesi	Bitung	173,837
+Sulawesi	Gorontalo	153,036
+Sulawesi	Kendari	236,269
+Sulawesi	Kotamobagu	107,459
+Sulawesi	Makassar	1,194,583
+Sulawesi	Manado	405,715
+Sulawesi	Palu	291,872
+Sulawesi	Pare-Pare	112,625
+Sulawesi	Palopo	129,273
+Sulawesi	Tomohon	80,649
+Sumatra	Banda Aceh	174,433
+Sumatra	Bandar Lampung	923,970
+Batam	Batam	1,153,860
+Sumatra	Bengkulu	257,763
+Sumatra	Binjai	238,209
+Sumatra	Bukittinggi	117,097
+Sumatra	Dumai	291,393
+Sumatra	Gunungsitoli	125,566
+Sumatra	Jambi	586,930
+Sumatra	Langsa	133,600
+Sumatra	Lhokseumawe	152,895
+Sumatra	Lubuklinggau	174,472
+Sumatra	Medan	2,029,797
+Sumatra	Metro	127,569
+Sumatra	Padang	1,020,880
+Sumatra	Padang Panjang	49,451
+Sumatra	Padang Sidempuan	178,148
+Sumatra	Pagar Alam	114,609
+Sumatra	Palembang	1,342,258
+Bangka	Pangkal Pinang	145,945
+Sumatra	Pariaman	83,151
+Sumatra	Payakumbuh	122,896
+Sumatra	Pekanbaru	1,030,732
+Sumatra	Pematang Siantar	229,525
+Sumatra	Prabumulih	129,201
+Weh Island	Sabang	28,454
+Sumatra	Sawah Lunto	59,821
+Sumatra	Sibolga	90,489
+Sumatra	Solok	62,483
+Sumatra	Sungai Penuh	82,619
+Sumatra	Tanjung Balai	152,272
+Bintan	Tanjung Pinang	167,958
+Sumatra	Tebing Tinggi	134,548

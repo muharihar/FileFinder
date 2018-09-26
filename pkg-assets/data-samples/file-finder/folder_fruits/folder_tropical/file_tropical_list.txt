@@ -1,0 +1,8 @@
+bananas
+pineapples
+avocados
+dates
+figs
+mangoes
+pomegranates
+papayas.

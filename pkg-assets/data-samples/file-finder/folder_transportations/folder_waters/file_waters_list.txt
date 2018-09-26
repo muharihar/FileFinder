@@ -1,0 +1,21 @@
+canoe
+catamaran
+dinghy
+ferry
+ferryboat
+freighter
+hovercraft
+hydrofoil
+kayak
+motorboat
+passenger ship
+raft
+rowboat
+sailboat
+seaplane
+ship
+speedboat
+submarine
+surfboard
+swimming
+yacht

@@ -1,0 +1,11 @@
+#	Name	Population	Latitude/Longitude
+1	Sofia  wikipedia article, Sofia-Capital	1,152,556	42.698 / 23.324
+2	Plovdiv  wikipedia article, Plovdiv	340,494	42.15 / 24.75
+3	Varna  wikipedia article, Varna	312,770	43.217 / 27.917
+4	Burgas  wikipedia article, Burgas	195,966	42.506 / 27.468
+5	Rousse  wikipedia article, Ruse	156,238	43.856 / 25.971
+6	Stara Zagora  wikipedia article, Stara Zagora	143,431	42.433 / 25.642
+7	Pleven  wikipedia article, Pleven	118,675	43.417 / 24.617
+8	Sliven  wikipedia article, Sliven	96,368	42.686 / 26.329
+9	Dobrich  wikipedia article, Dobrich	94,831	43.567 / 27.833
+10	Shumen, Shumen	87,283	43.271 / 26.923
