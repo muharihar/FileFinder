@@ -6,13 +6,23 @@
     "authors": [
         {
             "name": "Muhammad Hari Suharto",
-            "email": "muharihar@infoterkini.com"
+            "email": "hi.muhammad.hari@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Muharihar\\FileFinder\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Muharihar\\FileFinder\\ServiceProviders\\FileFinderServiceProvider"
+            ],
+            "aliases": {
+                "FileFinder": "Muharihar\\FileFinder\\Facades\\FileFinder"
+            }
         }
     },
     "require": {
