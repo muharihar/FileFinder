@@ -123,7 +123,7 @@
         "operationId": "searchByContent",
         "parameters": [
           {
-            "$ref": "#/components/parameters/SearchKeyParam"
+            "$ref": "#/components/parameters/SearchKeyByContentParam"
           }
         ],
         "responses": {
@@ -132,7 +132,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/DefaultResponse"
+                  "$ref": "#/components/schemas/SearchByContentResponse"
                 }
               }
             }
@@ -162,6 +162,28 @@
             "description": "Search Result Collection",
             "items": {
               "$ref": "#/components/schemas/ResultObject"
+            }
+          },
+          "searchCount": {
+            "type": "integer",
+            "description": "Search Result Count",
+            "example": 1
+          }
+        }
+      },
+      "SearchByContentResponse": {
+        "type": "object",
+        "properties": {
+          "searchKey": {
+            "type": "string",
+            "description": "Search Key Request",
+            "example": "obama"
+          },
+          "results": {
+            "type": "array",
+            "description": "Search Result Collection",
+            "items": {
+              "$ref": "#/components/schemas/ResultByContentObject"
             }
           },
           "searchCount": {
@@ -206,10 +228,72 @@
             "example": "public/file-finder/folder_peoples/folder_presidents"
           }
         }
+      },
+      "ResultByContentObject": {
+        "type": "object",
+        "description": "Search by Content Result",
+        "properties": {
+          "idx": {
+            "type": "integer",
+            "description": "Index",
+            "example": 1
+          },
+          "isDir": {
+            "type": "boolean",
+            "description": "Is directory",
+            "example": false
+          },
+          "shortPath": {
+            "type": "string",
+            "description": "File Short Path (We hide the Fullpath for security reason)",
+            "example": "public/file-finder/folder_peoples/folder_presidents/file_us.txt"
+          },
+          "extension": {
+            "type": "string",
+            "description": "File Extention",
+            "example": "txt"
+          },
+          "fileSize": {
+            "type": "integer",
+            "description": "File Size",
+            "example": 6713
+          },
+          "parentPath": {
+            "type": "string",
+            "description": "Parent path",
+            "example": "public/file-finder/folder_peoples/folder_presidents"
+          },
+          "info": {
+            "type": "object",
+            "properties": {
+              "firstPos": {
+                "type": "integer",
+                "description": "First Search Key Position",
+                "example": 6580
+              },
+              "firstStr": {
+                "type": "string",
+                "description": "Part of Search Result",
+                "example": "...Obama,http://en.wikipedia.org/wiki/Barack_Obama,20"
+              }
+            }
+          }
+        }
       }
     },
     "parameters": {
       "SearchKeyParam": {
+        "in": "query",
+        "name": "s",
+        "description": "Search Key",
+        "required": true,
+        "allowEmptyValue": false,
+        "schema": {
+          "type": "string"
+        },
+        "example": "folder"
+      },
+      "SearchKeyByContentParam": {
         "in": "query",
         "name": "s",
         "description": "Search Key",

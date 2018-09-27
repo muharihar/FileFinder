@@ -62,9 +62,9 @@ class FileFinderTest extends TestCase
         $searchKey = "obama";
         $filePath = "public/file-finder/folder_peoples/folder_presidents/file_us.txt";
 
-        $isExist = $fileFinder->findFileByContent($filePath, $searchKey);
+        $result = $fileFinder->findFileByContent($filePath, $searchKey);
 
-        $this->assertTrue($isExist);
+        $this->assertTrue($result["isExist"]);
     }
 
     /**
@@ -79,9 +79,9 @@ class FileFinderTest extends TestCase
         $searchKey = "obama-not-found";
         $filePath = "public/file-finder/folder_peoples/folder_presidents/file_us.txt";
 
-        $isExist = $fileFinder->findFileByContent($filePath, $searchKey);
+        $result = $fileFinder->findFileByContent($filePath, $searchKey);
 
-        $this->assertFalse($isExist);
+        $this->assertFalse($result["isExist"]);
     }
 
     /**

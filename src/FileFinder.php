@@ -112,20 +112,26 @@ class FileFinder
      *
      * @param string $file
      * @param string $searchKey
-     * @return bool
+     * @return array
      */
     public function findFileByContent($file, $searchKey)
     {
-        $result = false;
+        $result["isExist"] = false;
+        $result["pos"] = -1;
+        $result["strInfo"] = "";
 
         $fullFilePath = storage_path($this->localAppStoragePath . $file);
         //check if exists and if is a file
         if (Storage::disk('local')->exists($file) && is_file($fullFilePath)) {
             $content = Storage::disk('local')->get($file);
+            $result["strLength"] = strlen($content);
 
             $pos = strpos(strtolower($content), strtolower($searchKey));
             if ($pos !== false) {
-                $result = true;
+                //$result = true;
+                $result["isExist"] = true;
+                $result["firstPos"] = $pos;
+                $result["firstStr"] = ($pos == 0 ? "":"...").substr($content,$pos,50).(($pos+50) > strlen($content)? "...":"");
             }
         }
 
@@ -147,8 +153,10 @@ class FileFinder
 
         $result = array();
         foreach ($resources as $key => $value) {
-            $isExist = $this->findFileByContent($value["shortPath"], $searchKey);
-            if ($isExist) {
+            $found = $this->findFileByContent($value["shortPath"], $searchKey);
+            if ($found["isExist"]) {
+                $value["info"]["firstPos"] = $found["firstPos"];
+                $value["info"]["firstStr"] = $found["firstStr"];
                 $result[] = $value;
             }
         }
