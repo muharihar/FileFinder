@@ -10,6 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Muharihar\\FileFinder\\": "src"
+        }
+    },
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": ">=5.6"
