@@ -8,8 +8,11 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="Local File Finder Package Test Suite">
-            <directory suffix=".php">./tests/</directory>
+        <testsuite name="Unit">
+            <directory suffix="Test.php">./tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory suffix="Test.php">./tests/Feature</directory>
         </testsuite>
     </testsuites>
 </phpunit>

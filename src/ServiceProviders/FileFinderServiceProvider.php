@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Muharihar\FileFinder\ServiceProvider;
+namespace Muharihar\FileFinder\ServiceProviders;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -48,8 +48,8 @@ class FileFinderServiceProvider extends ServiceProvider
         $this->app->make('Muharihar\FileFinder\FileFinder');
         
         // Register Controller
-        $this->app->make('Muharihar\FileFinder\Controller\SwaggerController');
-        $this->app->make('Muharihar\FileFinder\Controller\FileFinderController');
+        $this->app->make('Muharihar\FileFinder\Controllers\SwaggerController');
+        $this->app->make('Muharihar\FileFinder\Controllers\FileFinderController');
 
         $this->loadViewsFrom(__DIR__.'/../views', 'FileFinder');
     }

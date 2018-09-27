@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Muharihar\FileFinder\Controller;
+namespace Muharihar\FileFinder\Controllers;
 
 use App\Http\Controllers\Controller;
 

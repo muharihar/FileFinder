@@ -7,7 +7,7 @@
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
-namespace Muharihar\FileFinder\Controller;
+namespace Muharihar\FileFinder\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
