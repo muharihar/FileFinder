@@ -20,7 +20,8 @@ $ composer create-project --prefer-dist laravel/laravel laravel_file_finder_5.6_
 - Add FileFinder Package
 
 ```bash
-composer require muharihar/file-finder
+$ cd laravel_file_finder_5.6_test
+$ composer require muharihar/file-finder
 ```
 
 - Publish Assets and Default Data Samples
