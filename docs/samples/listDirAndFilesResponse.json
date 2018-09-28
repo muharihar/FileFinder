@@ -1,0 +1,406 @@
+{
+  "searchKey": "^default-data*",
+  "results": [
+    {
+      "idx": 1,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_animals",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder"
+    },
+    {
+      "idx": 2,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_animals/folder_birds",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_animals"
+    },
+    {
+      "idx": 3,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/folder_birds/file_ducky.txt",
+      "extension": "txt",
+      "fileSize": 34,
+      "parentPath": "public/file-finder/folder_animals/folder_birds"
+    },
+    {
+      "idx": 4,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/folder_birds/file_hawk_like.txt",
+      "extension": "txt",
+      "fileSize": 24,
+      "parentPath": "public/file-finder/folder_animals/folder_birds"
+    },
+    {
+      "idx": 5,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/folder_birds/file_tweety.txt",
+      "extension": "txt",
+      "fileSize": 25,
+      "parentPath": "public/file-finder/folder_animals/folder_birds"
+    },
+    {
+      "idx": 6,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_animals/folder_wilds",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_animals"
+    },
+    {
+      "idx": 7,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/folder_wilds/file_snakes.txt",
+      "extension": "txt",
+      "fileSize": 84,
+      "parentPath": "public/file-finder/folder_animals/folder_wilds"
+    },
+    {
+      "idx": 8,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/folder_wilds/file_top_predators.txt",
+      "extension": "txt",
+      "fileSize": 36,
+      "parentPath": "public/file-finder/folder_animals/folder_wilds"
+    },
+    {
+      "idx": 9,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_animals/ref.txt",
+      "extension": "txt",
+      "fileSize": 91,
+      "parentPath": "public/file-finder/folder_animals"
+    },
+    {
+      "idx": 10,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder"
+    },
+    {
+      "idx": 11,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/file_ref.txt",
+      "extension": "txt",
+      "fileSize": 63,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 12,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_berries",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 13,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_berries/file_berries_list.txt",
+      "extension": "txt",
+      "fileSize": 44,
+      "parentPath": "public/file-finder/folder_fruits/folder_berries"
+    },
+    {
+      "idx": 14,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_citrus",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 15,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_citrus/file_citrus_list.txt",
+      "extension": "txt",
+      "fileSize": 90,
+      "parentPath": "public/file-finder/folder_fruits/folder_citrus"
+    },
+    {
+      "idx": 16,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_drupes",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 17,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_drupes/file_drupes_list.txt",
+      "extension": "txt",
+      "fileSize": 42,
+      "parentPath": "public/file-finder/folder_fruits/folder_drupes"
+    },
+    {
+      "idx": 18,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_melons",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 19,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_melons/file_melon_list.txt",
+      "extension": "txt",
+      "fileSize": 57,
+      "parentPath": "public/file-finder/folder_fruits/folder_melons"
+    },
+    {
+      "idx": 20,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_pomes",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 21,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_pomes/file_pomes_list.txt",
+      "extension": "txt",
+      "fileSize": 18,
+      "parentPath": "public/file-finder/folder_fruits/folder_pomes"
+    },
+    {
+      "idx": 22,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_fruits/folder_tropical",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_fruits"
+    },
+    {
+      "idx": 23,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_fruits/folder_tropical/file_tropical_list.txt",
+      "extension": "txt",
+      "fileSize": 68,
+      "parentPath": "public/file-finder/folder_fruits/folder_tropical"
+    },
+    {
+      "idx": 24,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_geolocations",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder"
+    },
+    {
+      "idx": 25,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_geolocations/folder_cities",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_geolocations"
+    },
+    {
+      "idx": 26,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_cities/file_bg.txt",
+      "extension": "txt",
+      "fileSize": 633,
+      "parentPath": "public/file-finder/folder_geolocations/folder_cities"
+    },
+    {
+      "idx": 27,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_cities/file_id.txt",
+      "extension": "txt",
+      "fileSize": 2482,
+      "parentPath": "public/file-finder/folder_geolocations/folder_cities"
+    },
+    {
+      "idx": 28,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_geolocations/folder_countries",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_geolocations"
+    },
+    {
+      "idx": 29,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_countries/file_asia.txt",
+      "extension": "txt",
+      "fileSize": 462,
+      "parentPath": "public/file-finder/folder_geolocations/folder_countries"
+    },
+    {
+      "idx": 30,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_countries/file_europe.txt",
+      "extension": "txt",
+      "fileSize": 484,
+      "parentPath": "public/file-finder/folder_geolocations/folder_countries"
+    },
+    {
+      "idx": 31,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_geolocations/folder_states",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_geolocations"
+    },
+    {
+      "idx": 32,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_states/file_canada.txt",
+      "extension": "txt",
+      "fileSize": 338,
+      "parentPath": "public/file-finder/folder_geolocations/folder_states"
+    },
+    {
+      "idx": 33,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_geolocations/folder_states/file_us.txt",
+      "extension": "txt",
+      "fileSize": 2076,
+      "parentPath": "public/file-finder/folder_geolocations/folder_states"
+    },
+    {
+      "idx": 34,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_peoples",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder"
+    },
+    {
+      "idx": 35,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_peoples/foder_prime_ministers",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_peoples"
+    },
+    {
+      "idx": 36,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_peoples/foder_prime_ministers/file_uk.txt",
+      "extension": "txt",
+      "fileSize": 53,
+      "parentPath": "public/file-finder/folder_peoples/foder_prime_ministers"
+    },
+    {
+      "idx": 37,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_peoples/folder_kings",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_peoples"
+    },
+    {
+      "idx": 38,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_peoples/folder_kings/file_uk.txt",
+      "extension": "txt",
+      "fileSize": 221,
+      "parentPath": "public/file-finder/folder_peoples/folder_kings"
+    },
+    {
+      "idx": 39,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_peoples/folder_presidents",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_peoples"
+    },
+    {
+      "idx": 40,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_peoples/folder_presidents/file_id.txt",
+      "extension": "txt",
+      "fileSize": 632,
+      "parentPath": "public/file-finder/folder_peoples/folder_presidents"
+    },
+    {
+      "idx": 41,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_peoples/folder_presidents/file_us.txt",
+      "extension": "txt",
+      "fileSize": 6713,
+      "parentPath": "public/file-finder/folder_peoples/folder_presidents"
+    },
+    {
+      "idx": 42,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_peoples/folder_queens",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_peoples"
+    },
+    {
+      "idx": 43,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_peoples/folder_queens/file_uk.txt",
+      "extension": "txt",
+      "fileSize": 50,
+      "parentPath": "public/file-finder/folder_peoples/folder_queens"
+    },
+    {
+      "idx": 44,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_transportations",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder"
+    },
+    {
+      "idx": 45,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_transportations/folder_airs",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_transportations"
+    },
+    {
+      "idx": 46,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_transportations/folder_airs/file_airs_list.txt",
+      "extension": "txt",
+      "fileSize": 79,
+      "parentPath": "public/file-finder/folder_transportations/folder_airs"
+    },
+    {
+      "idx": 47,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_transportations/folder_lands",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_transportations"
+    },
+    {
+      "idx": 48,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_transportations/folder_lands/file_lands_list.txt",
+      "extension": "txt",
+      "fileSize": 36,
+      "parentPath": "public/file-finder/folder_transportations/folder_lands"
+    },
+    {
+      "idx": 49,
+      "isDir": true,
+      "shortPath": "public/file-finder/folder_transportations/folder_waters",
+      "extension": "",
+      "fileSize": 0,
+      "parentPath": "public/file-finder/folder_transportations"
+    },
+    {
+      "idx": 50,
+      "isDir": false,
+      "shortPath": "public/file-finder/folder_transportations/folder_waters/file_waters_list.txt",
+      "extension": "txt",
+      "fileSize": 181,
+      "parentPath": "public/file-finder/folder_transportations/folder_waters"
+    }
+  ],
+  "resultCount": 50
+}
