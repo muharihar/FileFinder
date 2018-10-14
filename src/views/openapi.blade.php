@@ -24,7 +24,7 @@
             "https",
             "http"
           ],
-          "default": "http"
+          "default": "https"
         },
         "basePath": {
           "description": "Base path",
