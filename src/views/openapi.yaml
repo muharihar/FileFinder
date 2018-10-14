@@ -10,6 +10,20 @@ info:
     name: Apache License 2.0
     url: 'https://github.com/muharihar/FileFinder'
 servers:
+  - url: '{scheme}://laravel-file-finder.mhs.web.id/{basePath}'
+    description: Demo Server
+    variables:
+      scheme:
+        description: The API is accessible via https and http
+        enum:
+          - https
+          - http
+        default: https
+      basePath:
+        description: Base path
+        enum:
+          - file-finder/api/v1.0
+        default: file-finder/api/v1.0
   - url: '{scheme}://{host}:{port}/{basePath}'
     description: Production Server
     variables:
