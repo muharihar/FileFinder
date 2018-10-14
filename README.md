@@ -3,7 +3,7 @@ Laravel Local File Finder Package is a simple laravel package that allow finding
 
 ### Online Demo:
 
-- [Laravel File Finder Online Demo](https://laravel-file-finder.mhs.web.id/file-finder/)
+- [Laravel File Finder Online Demo](https://laravel-file-finder.mhs.web.id/file-finder/api/docs)
 
 ## Available Features:
 - List default storage directories and files.
